@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a839dc5-babc-4bb2-b2ff-9682c27e1ad8": {
+      "ProjectGuid": "5a839dc5-babc-4bb2-b2ff-9682c27e1ad8",
+      "DisplayName": "WhatIsCors",
+      "ColorIndex": 0
+    },
+    "f5a28190-b336-47a3-8a9f-e535c9a613bf": {
+      "ProjectGuid": "f5a28190-b336-47a3-8a9f-e535c9a613bf",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
